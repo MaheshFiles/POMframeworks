@@ -1,0 +1,10 @@
+{
+"un_id" : "identifierId",
+"un_xpath":"//input[@id='identifierId']",
+"nxt_id":"identifierNext",
+"pwd_name":"password",
+"pwd_xpath":"//*[@name='password']",
+"signin_id":"passwordNext",
+
+
+}
